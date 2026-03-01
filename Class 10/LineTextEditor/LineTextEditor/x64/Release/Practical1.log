@@ -1,0 +1,8 @@
+﻿  Practical1.cpp
+C:\Users\root\source\repos\Class 10\Practical1\Practical1\Practical1.cpp(416,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  2 of 164 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Practical1.vcxproj -> C:\Users\root\source\repos\Class 10\Practical1\x64\Release\Practical1.exe

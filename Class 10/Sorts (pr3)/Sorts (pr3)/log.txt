@@ -1,0 +1,78 @@
+========== Analyze #1 ==========
+Array size: 10
+[std::sort] Sorting array . . . 0.0004ms
+[std::sort] Checking sort . . . OK!
+[std::qsort] Sorting array . . . 0.00134ms
+[std::qsort] Checking sort . . . OK!
+[qsort] Sorting array . . . 0.00053ms
+[qsort] Checking sort . . . OK!
+[radix] Sorting array . . . 0.00761ms
+[radix] Checking sort . . . OK!
+[heap] Sorting array . . . 0.00043ms
+[heap] Checking sort . . . OK!
+
+Array size: 100
+[std::sort] Sorting array . . . 0.00331ms
+[std::sort] Checking sort . . . OK!
+[std::qsort] Sorting array . . . 0.00621ms
+[std::qsort] Checking sort . . . OK!
+[qsort] Sorting array . . . 0.00571ms
+[qsort] Checking sort . . . OK!
+[radix] Sorting array . . . 0.00783ms
+[radix] Checking sort . . . OK!
+[heap] Sorting array . . . 0.00439ms
+[heap] Checking sort . . . OK!
+
+Array size: 1000
+[std::sort] Sorting array . . . 0.054789ms
+[std::sort] Checking sort . . . OK!
+[std::qsort] Sorting array . . . 0.076759ms
+[std::qsort] Checking sort . . . OK!
+[qsort] Sorting array . . . 0.064209ms
+[qsort] Checking sort . . . OK!
+[radix] Sorting array . . . 0.022639ms
+[radix] Checking sort . . . OK!
+[heap] Sorting array . . . 0.053409ms
+[heap] Checking sort . . . OK!
+
+Array size: 10000
+[std::sort] Sorting array . . . 0.587691ms
+[std::sort] Checking sort . . . OK!
+[std::qsort] Sorting array . . . 0.969354ms
+[std::qsort] Checking sort . . . OK!
+[qsort] Sorting array . . . 0.770438ms
+[qsort] Checking sort . . . OK!
+[radix] Sorting array . . . 0.425364ms
+[radix] Checking sort . . . OK!
+[heap] Sorting array . . . 0.749199ms
+[heap] Checking sort . . . OK!
+
+Array size: 100000
+[std::sort] Sorting array . . . 7.30204ms
+[std::sort] Checking sort . . . OK!
+[std::qsort] Sorting array . . . 11.3627ms
+[std::qsort] Checking sort . . . OK!
+[qsort] Sorting array . . . 9.10659ms
+[qsort] Checking sort . . . OK!
+[radix] Sorting array . . . 4.76993ms
+[radix] Checking sort . . . OK!
+[heap] Sorting array . . . 11.165ms
+[heap] Checking sort . . . OK!
+
+Array size: 1000000
+[std::sort] Sorting array . . . 85.3138ms
+[std::sort] Checking sort . . . OK!
+[std::qsort] Sorting array . . . 136.389ms
+[std::qsort] Checking sort . . . OK!
+[qsort] Sorting array . . . 105.364ms
+[qsort] Checking sort . . . OK!
+[radix] Sorting array . . . 76.3451ms
+[radix] Checking sort . . . OK!
+[heap] Sorting array . . . 184.518ms
+[heap] Checking sort . . . OK!
+
+Array size: 10000000
+[std::sort] Sorting array . . . 986.753ms
+[std::sort] Checking sort . . . OK!
+[std::qsort] Sorting array . . . 1604ms
+[std::qsort] Checking sort . . . OK!

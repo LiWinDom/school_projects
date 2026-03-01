@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFS", "BFS\BFS.vcxproj", "{B56426CF-12E6-4A4B-B877-1F0CA31FD691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56426CF-12E6-4A4B-B877-1F0CA31FD691}.Debug|x64.ActiveCfg = Debug|x64
+		{B56426CF-12E6-4A4B-B877-1F0CA31FD691}.Debug|x64.Build.0 = Debug|x64
+		{B56426CF-12E6-4A4B-B877-1F0CA31FD691}.Debug|x86.ActiveCfg = Debug|Win32
+		{B56426CF-12E6-4A4B-B877-1F0CA31FD691}.Debug|x86.Build.0 = Debug|Win32
+		{B56426CF-12E6-4A4B-B877-1F0CA31FD691}.Release|x64.ActiveCfg = Release|x64
+		{B56426CF-12E6-4A4B-B877-1F0CA31FD691}.Release|x64.Build.0 = Release|x64
+		{B56426CF-12E6-4A4B-B877-1F0CA31FD691}.Release|x86.ActiveCfg = Release|Win32
+		{B56426CF-12E6-4A4B-B877-1F0CA31FD691}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3F26DC3-021B-4CE1-90B2-4D3486FC1A18}
+	EndGlobalSection
+EndGlobal
